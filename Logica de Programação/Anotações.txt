@@ -1,0 +1,23 @@
+  Estruturas de Repetição: são estruturas que permitem executar mais de uma vez um comando ou um conjunto de comandos, mediante uma condição ou um contador
+  
+        Linguagens de Programação(LP): é uma linguagem escrita e formal que especifica um conjunto de instruções e regras usadas para gera programas. Ou é um meio de comunicação entre computadores e o Humano.
+
+Existem 2 tipos de LP, que são de baixo nível e de alto nível. 
+
+   alto nível: a sintaxe se aproxima maios da nossa linguagem e se distanciam mais da linguagem máquina.
+    baixo nível: a sintaxe se aproxima mais da linguagem máquina
+
+As LP's podem ser compiladas e interpretadas.
+    Compiladas: linguagem é executada directamente pelo SO/Processador, após ser traduzido por meio de uma compilação;
+    Interpretadas: linguagem executada por um programa de computador;
+
+   Portugol: uma pseudolinguagem que permite ao Programador pensar no problema em si e não no equipamento que irá executar.
+
+       Desvios COndicionais( estruturas de decisão) & Boas Práticas de Programação - Comentários
+
+  Desvio Condicional "Se" - condição a ser testada entre parenteses e as instruções que devem ser executadas entre chaves caso o desvio seja "Verdadeiro"
+  Desvio Condicional "Caso" - similar ao comando Se e senão, e reduz a complexidade na escolha de diversas opções;
+
+Matriz: é uma coleção de variáveis do mesmo tipo acessíveis com um único nome e armazenados sucessivamente na memória;
+
+Vector são matrizes de uma só dimensão

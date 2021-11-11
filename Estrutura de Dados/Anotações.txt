@@ -1,0 +1,38 @@
+Estrutura de dados: é uma estrutura organizada de dados na memória de um computador( qualquer dispositivo de armazenamento), de forma a serem utilizadas de forma correcta.
+
+Algoritmo; é um conjunto de instruções estruturadas e ordenadas, com objectivo de realizar uma tarefa ou operação específica.
+
+Em uma estrutura de dados devemos saber realizar as operações básicas: Inserir, excluir,localizar, percorrer e classificar os dados;
+ Principais estruturas de dados: Vectores e Matrizes, Registro, Lista, Pilha, Fila, Arvoré, tabela Hash e grafos;
+
+      *Vectores e Matrizes(Arrays): estruturas de dados simples que podem auxiliar no caso de existir muitas variaveis do mesmo tipo em um algoritmo;
+       *Vector ou array uni-dimensional é uma variável que armazena várias variaveis do mesmo tipo.
+       *Vector é uma estrutura de dados indexada, que pode armazenar uma determinada quantidade de valores do mesmo tipo.
+       *Matriz ou Array é um vector de vectores, e é um vector que possui duas ou mais dimensões;
+
+      *Registros: nos permite armazenar mais de um tipo de dado( diferente da matriz ou vector ou ainda array)
+
+Toda estrutura de dados do tipo registro tem de ter sempre umm nome( ex: livro), e seus campos podem ser acessados por meio do uso do operador ponto(.) (ex: livro.preco).
+
+* Lista: nos permite armazenar dados de um determinado tipo e uma ordem específica, ea diferença com array é que possuem um tamanho ajustável e o array é de tamanho fixo; existem dois tipos de listas: ligadas e duplamente ligadas;
+
+• Ligadas: existem os nós onde cada um dos nós conhece o valor que está sendo armazenado em seu interior, além de conhecer o nó posterior
+• Duplamente Ligadas: a diferença com a ligada é que ela é bidirecional, sabem o nó anterior e o posterior
+
+• Pilhas: serve como uma coleção de elementos, e permite oa cesso aum só item do dado armazenado
+
+             Tipos de Pilhas: LIFO ou UEPS e o FIFO ou PEPS
+*LIFO(Last in First Out): o primeiro elemento a ser retirado é o último que foi inserido
+*FIFO(First in First Out): o primeiro elemento a ser retirado é o primeiro que foi inserido
+
+• FIlas : admite remoção e inserção de elementos, com a seguinte regra: o elemento a ser removido é o que está a mais tempo na fila.
+
+*Árvores: organiza os elementos de forma hierárquica, onde existe um elemnto que fica no topo da árvore, chamado de raiz e os outros que chamam-se subordinados a ele, chamados nós ou folhas.
+
+*Tabela Hash( tabela de dispersão): estrutura de dados especial, que associa chaves de pesquisa a valores;
+ utiliza uma função hash para espalhar os elementos.
+Permite associação de "valores" a "chaves"
+
+* Valores é a posição ou índice onde o elemento se encontra
+* Chave parte da informação que compõe o elemento a ser manipulado.
+*Grafo: são estruturas que permitem programar a relação entre objectos. Os Objectos são os nós do grafo e os relacionamentos são as arestas.
